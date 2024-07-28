@@ -6,14 +6,13 @@ const Hero = () => {
   return (
     <div className="hero container">
       <div className="hero-text">
-        <h1>We ensure better Education for a better World</h1>
+        <h1>Your Gateway to Smarter Electricity Management.</h1>
         <p>
-          Our cutting-edge curriculum is designed to empower students with the
-          knowledge, skills. and experiences needed to excel in the dynamic
-          field of education
+        You can monitor consumption, reduce waste, and optimize energy usage effortlessly.
+        Experience seamless energy control with our intuitive monitoring solutions.
         </p>
         <button className="btn">
-          Explore more <img src={dark_arrow} alt="" />
+        Track Usage <img src={dark_arrow} alt="" />
         </button>
       </div>
     </div>

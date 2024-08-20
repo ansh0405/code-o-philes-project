@@ -20,7 +20,9 @@ nav {
   }
   
   .logo {
-    width: 180px;
+    width: 70px;
+    height: 70px;
+    filter: invert(1) brightness(2);
   }
   
   .dark-nav {

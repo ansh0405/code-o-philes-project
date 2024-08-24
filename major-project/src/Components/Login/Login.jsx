@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from "react"
-
+//signup and login
 
 const Login = () => {
     const [email, setEmail] = useState('');
